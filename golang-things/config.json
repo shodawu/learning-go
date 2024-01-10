@@ -1,0 +1,9 @@
+{
+    "FTP": {
+        "Host": "localhost",
+        "Account": "guessme"
+    },
+    "Email": {
+        "Host": "example.mail.server"
+    }
+}

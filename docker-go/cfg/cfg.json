@@ -1,0 +1,10 @@
+{
+    "db_debug": true,
+    "db_driver": "mysql",
+    "db_conn_string": "root:123456@tcp(127.0.0.1:3306)/goodtaxi?charset=utf8mb4,utf8&parseTime=True&loc=Local",
+    "redis_cfg": {
+        "host": "localhost:6379",
+        "password": "",
+        "db": 0
+    }
+}

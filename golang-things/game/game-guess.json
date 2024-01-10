@@ -1,0 +1,45 @@
+[
+   {
+     "Desc": "PassAt1st",
+     "Game": {
+       "Answer": 90,
+       "Opptunity": 3
+     },
+     "Guesses": [
+       {
+         "Guess": 90,
+         "WantMsg": "恭喜過關",
+         "WatnTimes": 2
+       }
+     ]
+   },
+   {
+     "Desc": "PassAt4th",
+     "Game": {
+       "Answer": 90,
+       "Opptunity": 3
+     },
+     "Guesses": [
+       {
+         "Guess": 91,
+         "WantMsg": "過大",
+         "WatnTimes": 2
+       },
+       {
+         "Guess": 89,
+         "WantMsg": "過小",
+         "WatnTimes": 1
+       },
+       {
+         "Guess": 1,
+         "WantMsg": "失敗",
+         "WatnTimes": 0
+       },
+       {
+         "Guess": 90,
+         "WantMsg": "遊戲已結束",
+         "WatnTimes": 0
+       }
+     ]
+   }
+ ]

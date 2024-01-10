@@ -1,0 +1,15 @@
+2023/10/29 08:42:03 Hello, you may see this in log file
+2023/10/29 08:42:03 router listening on :8081
+2023/10/29 08:44:16 router / got hit
+2023/10/29 08:44:25 router / got hit
+2023/10/29 08:44:26 router / got hit
+2023/10/29 08:44:26 router / got hit
+2023/10/29 08:44:27 router / got hit
+2023/10/29 08:51:13 Hello, you may see this in log file
+2023/10/29 08:51:13 router listening on :8081
+2023/10/29 08:51:24 router / got hit
+2023/10/29 08:51:25 router / got hit
+2023/10/29 08:51:25 router / got hit
+2023/10/29 08:51:50 Hello, you may see this in log file
+2023/10/29 08:51:50 router listening on :8081
+2023/10/29 08:54:20 router / got hit
